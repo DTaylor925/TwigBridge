@@ -1,6 +1,6 @@
 {
-    "name": "rcrowe/twigbridge",
-    "description": "Adds the power of Twig to Laravel",
+    "name": "dtaylor925/twigbridge",
+    "description": "Forked from rcrowe, Adds the power of Twig to Laravel",
     "keywords": ["laravel", "twig"],
     "license": "MIT",
     "authors": [
